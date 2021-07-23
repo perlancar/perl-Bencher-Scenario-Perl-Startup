@@ -1,6 +1,8 @@
 package Bencher::Scenario::Perl::Startup;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use 5.010001;
