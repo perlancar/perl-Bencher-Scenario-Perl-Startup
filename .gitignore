@@ -2,3 +2,4 @@ Bencher-Scenario-Perl-Startup-*
 .build
 *~
 nytprof*
+.DS_Store
